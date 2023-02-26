@@ -1,0 +1,28 @@
+.heading1 {
+    padding-left: 8%;
+    padding-right: 3%;
+    padding-top: 9em;
+}
+
+.image1 {
+    padding-left: 3%;
+    padding-right: 8%;
+    padding-top: 7em;
+}
+
+.btnStyle {
+    padding: 10px 90px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+}
+
+@media (max-width: 767.20px) {
+    .heading1 {
+        text-align: center;
+        padding: 30px;
+    }
+
+    .image1 {
+        padding: 30px;
+    }
+}

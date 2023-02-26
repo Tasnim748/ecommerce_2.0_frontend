@@ -1,0 +1,22 @@
+.heading {
+    padding-left: 12%;
+    padding-right: 3%;
+    padding-top: 10em;
+}
+
+.formDiv {
+    padding-left: 3%;
+    padding-right: 12%;
+    padding-top: 7em;
+}
+
+@media (max-width: 767.20px) {
+    .formDiv {
+        padding: 30px;
+    }
+
+    .heading {
+        text-align: center;
+        padding: 30px 30px 10px 30px;
+    }
+}

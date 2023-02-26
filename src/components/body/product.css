@@ -1,0 +1,13 @@
+.cardFooter {
+    display: flex;
+}
+
+.cardFooter button {
+    flex: 2;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+
+.cardFooter h6 {
+    flex: 1;
+    text-align: center;
+}
